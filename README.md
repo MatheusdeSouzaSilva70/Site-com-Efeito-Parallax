@@ -10,3 +10,15 @@
 ![README.md](https://github.com/MatheusdeSouzaSilva70/Site-com-Efeito-Parallax/blob/main/img/Site%20com%20Efeito%20Parallax.png)
 
 ![README.md](https://github.com/MatheusdeSouzaSilva70/Site-com-Efeito-Parallax/blob/main/img/Site%20com%20Efeito%20Parallax2.png)
+
+
+## Recursos
+- Responsivo 100%
+
+## Links:
+- Projeto:
+- Portfolio:https://matheusdesouzasilva70.github.io/Portfolio/
+- LinkedIn:https://www.linkedin.com/in/matheus-de-souza-silva-288194229/
+
+## Autor:
+**Matheus de Souza Silva**
